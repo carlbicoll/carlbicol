@@ -1,39 +1,38 @@
 # Carl Aldouz D. Bicol
 
-Frontend-focused developer building clean, responsive web applications.
+Aspiring Full-Stack Developer
+
+---
+
+## About Me
+
+Frontend-focused developer building clean, responsive, and scalable web applications.  
+Passionate about writing maintainable code and designing smooth user experiences.
 
 ---
 
 ## Tech Stack
 
-**Frontend:**
-React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+**Frontend:**  
+React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS  
 
-**Backend:**
-Node.js • PHP • Python
+**Backend:**  
+Node.js • PHP • Python  
 
-**Database:**
-MySQL
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlbicoll&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlbicoll&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+**Database:**  
+MySQL  
 
 ---
 
 ## Currently
 
-- Improving full-stack architecture skills  
-- Building scalable React / Next.js projects  
-- Practicing full-stack using React.js + Laravel (PHP)  
+- Building full-stack projects with Next.js  
+- Practicing full-stack web applications using React.js + PHP
+- Strengthening problem-solving skills  
 
 ---
 
-## Contact
+## Connect
 
-<a href="https://carlbicol.vercel.app">Portfolio</a> • Email
+Portfolio: https://carlbicol.vercel.app
+Email: carlbicoll@gmail.com
