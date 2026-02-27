@@ -34,5 +34,5 @@ MySQL
 
 ## Connect
 
-Portfolio: https://carlbicol.vercel.app
-Email: carlbicoll@gmail.com
+**Portfolio:** https://carlbicol.vercel.app
+**Email:** carlbicoll@gmail.com
