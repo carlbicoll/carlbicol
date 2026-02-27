@@ -1,4 +1,4 @@
-# Carl Aldouz
+# Carl Aldouz D. Bicol
 
 Frontend-focused developer building clean, responsive web applications.
 
@@ -6,35 +6,22 @@ Frontend-focused developer building clean, responsive web applications.
 
 ## Tech Stack
 
-**Frontend**
+**Frontend:**
 React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
 
-**Backend**
+**Backend:**
 Node.js • PHP • Python
 
-**Database**
+**Database:**
 MySQL
-
----
-
-## Featured Projects
-
-**Project One**  
-Short, clean description of what it does and the tech used.
-
-**Project Two**  
-Brief description focused on problem-solving impact.
-
-**Project Three**  
-Concise explanation of functionality.
 
 ---
 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlbicoll&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlbicoll&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -43,10 +30,10 @@ Concise explanation of functionality.
 
 - Improving full-stack architecture skills  
 - Building scalable React / Next.js projects  
-- Practicing backend API design  
+- Practicing full-stack using React.js + Laravel (PHP)  
 
 ---
 
 ## Contact
 
-LinkedIn • Portfolio • Email
+<a href="https://carlbicol.vercel.app" /> • Email
