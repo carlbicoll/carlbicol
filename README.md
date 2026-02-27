@@ -36,4 +36,4 @@ MySQL
 
 ## Contact
 
-<a href="https://carlbicol.vercel.app" /> • Email
+<a href="https://carlbicol.vercel.app">Portfolio</a> • Email
